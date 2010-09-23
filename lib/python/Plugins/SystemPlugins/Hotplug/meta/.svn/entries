@@ -1,0 +1,54 @@
+8
+
+dir
+24
+svn://192.168.102.65/enigma2_0904_r1/trunk/lib/python/Plugins/SystemPlugins/Hotplug/meta
+svn://192.168.102.65/enigma2_0904_r1
+
+
+
+2009-10-12T23:55:28.135385Z
+2
+ikseong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4fa7203b-e1c3-43bd-a0ea-7ed6e593f3c2
+
+plugin_hotplug.xml
+file
+
+
+
+
+2009-12-11T13:28:20.000000Z
+4badf6d185fa905b13168bbffe538b16
+2009-10-12T23:55:28.135385Z
+2
+ikseong
+has-props
+
+Makefile.am
+file
+
+
+
+
+2009-12-11T13:28:20.000000Z
+98d85a4842a97b5c9f8b0636d3b0f6cb
+2009-10-12T23:55:28.135385Z
+2
+ikseong
+has-props
+

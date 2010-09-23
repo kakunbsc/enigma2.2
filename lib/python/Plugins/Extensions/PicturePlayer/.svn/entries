@@ -1,0 +1,83 @@
+8
+
+dir
+24
+svn://192.168.102.65/enigma2_0904_r1/trunk/lib/python/Plugins/Extensions/PicturePlayer
+svn://192.168.102.65/enigma2_0904_r1
+
+
+
+2009-10-13T00:36:29.277718Z
+3
+ikseong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4fa7203b-e1c3-43bd-a0ea-7ed6e593f3c2
+
+plugin.py
+file
+
+
+
+
+2009-12-11T13:28:20.000000Z
+d159e366bf015f7cabad42cc5a21229f
+2009-10-13T00:36:29.277718Z
+3
+ikseong
+
+meta
+dir
+
+__init__.py
+file
+
+
+
+
+2009-12-11T13:28:20.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2009-10-12T23:55:28.135385Z
+2
+ikseong
+
+data
+dir
+
+Makefile.am
+file
+
+
+
+
+2009-12-11T13:28:20.000000Z
+e3db362d2b57b527753a91da97aef033
+2009-10-12T23:55:28.135385Z
+2
+ikseong
+
+pictureplayer.png
+file
+
+
+
+
+2009-12-11T13:28:20.000000Z
+24fbddfcf48a7786f49faef226fab390
+2009-10-12T23:55:28.135385Z
+2
+ikseong
+has-props
+

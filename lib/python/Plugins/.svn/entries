@@ -1,0 +1,104 @@
+8
+
+dir
+24
+svn://192.168.102.65/enigma2_0904_r1/trunk/lib/python/Plugins
+svn://192.168.102.65/enigma2_0904_r1
+
+
+
+2009-12-10T14:09:55.845631Z
+24
+ikseong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4fa7203b-e1c3-43bd-a0ea-7ed6e593f3c2
+
+Extensions
+dir
+
+test
+dir
+
+newplugin.py
+file
+
+
+
+
+2009-12-11T13:28:21.000000Z
+33bb837c1869dd997c2ff5f95ca6132d
+2009-10-12T23:55:28.135385Z
+2
+ikseong
+
+update
+dir
+
+Plugin.py
+file
+
+
+
+
+2009-12-11T13:28:21.000000Z
+6e3b199b7411c6a41853a4a5df3a35a3
+2009-10-12T23:55:28.135385Z
+2
+ikseong
+has-props
+
+DemoPlugins
+dir
+
+SystemPlugins
+dir
+
+__init__.py
+file
+
+
+
+
+2009-12-11T13:28:21.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2009-10-12T23:55:28.135385Z
+2
+ikseong
+
+Makefile.am
+file
+
+
+
+
+2009-12-11T13:28:21.000000Z
+43d50db5606d96f92f233ab7e125be95
+2009-10-12T23:55:28.135385Z
+2
+ikseong
+
+FileManager
+dir
+
+tuxboxplugins
+dir
+
+fpupgrade
+dir
+
+web
+dir
+

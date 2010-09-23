@@ -1,0 +1,101 @@
+8
+
+dir
+24
+svn://192.168.102.65/enigma2_0904_r1/trunk/lib/python/Plugins/SystemPlugins
+svn://192.168.102.65/enigma2_0904_r1
+
+
+
+2009-12-10T14:09:55.845631Z
+24
+ikseong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4fa7203b-e1c3-43bd-a0ea-7ed6e593f3c2
+
+Satfinder
+dir
+
+SatelliteEquipmentControl
+dir
+
+CrashlogAutoSubmit
+dir
+
+Hotplug
+dir
+
+SoftwareManager
+dir
+
+WirelessLan
+dir
+
+NFIFlash
+dir
+
+OldSoftwareUpdate
+dir
+
+ConfigurationBackup
+dir
+
+SoftwareUpdate
+dir
+
+DiseqcTester
+dir
+
+FrontprocessorUpgrade
+dir
+
+DefaultServicesScanner
+dir
+
+CommonInterfaceAssignment
+dir
+
+VideoTune
+dir
+
+SkinSelector
+dir
+
+FactoryTest
+dir
+
+CleanupWizard
+dir
+
+Makefile.am
+file
+
+
+
+
+2009-12-11T13:28:21.000000Z
+95b21c58de94b3cc8ac7f9a90fe6c2c0
+2009-10-13T00:36:29.277718Z
+3
+ikseong
+has-props
+
+Videomode
+dir
+
+PositionerSetup
+dir
+

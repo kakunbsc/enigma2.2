@@ -1,0 +1,89 @@
+8
+
+dir
+24
+svn://192.168.102.65/enigma2_0904_r1/trunk/lib/python/Plugins/Extensions
+svn://192.168.102.65/enigma2_0904_r1
+
+
+
+2009-12-03T16:51:15.786324Z
+22
+ikseong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4fa7203b-e1c3-43bd-a0ea-7ed6e593f3c2
+
+SimpleRSS
+dir
+
+PicturePlayer
+dir
+
+MediaScanner
+dir
+
+FritzCall
+dir
+
+DVDPlayer
+dir
+
+ZappingAlternatives
+dir
+
+TuxboxPlugins
+dir
+
+SocketMMI
+dir
+
+MediaPlayer
+dir
+
+WebInterface
+dir
+
+CutListEditor
+dir
+
+Modem
+dir
+
+DVDBurn
+dir
+
+IpkgInstaller
+dir
+
+GraphMultiEPG
+dir
+
+Makefile.am
+file
+
+
+
+
+2009-12-11T13:28:20.000000Z
+9c222fb532c5e357b977740a78cf3f21
+2009-10-12T23:55:28.135385Z
+2
+ikseong
+has-props
+
+FileManager
+dir
+

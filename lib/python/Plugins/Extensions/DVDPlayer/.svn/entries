@@ -1,0 +1,94 @@
+8
+
+dir
+24
+svn://192.168.102.65/enigma2_0904_r1/trunk/lib/python/Plugins/Extensions/DVDPlayer
+svn://192.168.102.65/enigma2_0904_r1
+
+
+
+2009-10-19T21:42:56.382022Z
+6
+ikseong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4fa7203b-e1c3-43bd-a0ea-7ed6e593f3c2
+
+LICENSE
+file
+
+
+
+
+2009-12-11T13:28:20.000000Z
+423c5d018f8701a8cc38b2fc3a4398d7
+2009-10-12T23:55:28.135385Z
+2
+ikseong
+
+keymap.xml
+file
+
+
+
+
+2009-12-11T13:28:20.000000Z
+7abf169cc67eca5b2cf6d2a5322c61e7
+2009-10-12T23:55:28.135385Z
+2
+ikseong
+
+plugin.py
+file
+
+
+
+
+2009-12-11T13:28:20.000000Z
+fc29e506a14c256cfc5e72eec6bc2d16
+2009-10-19T21:42:56.382022Z
+6
+ikseong
+
+meta
+dir
+
+__init__.py
+file
+
+
+
+
+2009-12-11T13:28:20.000000Z
+d784fa8b6d98d27699781bd9a7cf19f0
+2009-10-12T23:55:28.135385Z
+2
+ikseong
+
+src
+dir
+
+Makefile.am
+file
+
+
+
+
+2009-12-11T13:28:20.000000Z
+7e36c328f1491dc859788c56ef755d97
+2009-10-12T23:55:28.135385Z
+2
+ikseong
+

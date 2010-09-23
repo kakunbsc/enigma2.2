@@ -1,0 +1,54 @@
+8
+
+dir
+24
+svn://192.168.102.65/enigma2_0904_r1/trunk/lib/python/Plugins/SystemPlugins/CleanupWizard/meta
+svn://192.168.102.65/enigma2_0904_r1
+
+
+
+2009-10-12T23:55:28.135385Z
+2
+ikseong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4fa7203b-e1c3-43bd-a0ea-7ed6e593f3c2
+
+plugin_cleanupwizard.xml
+file
+
+
+
+
+2009-12-11T13:28:21.000000Z
+b2a0a287c77ba88c96c5edc612e57f05
+2009-10-12T23:55:28.135385Z
+2
+ikseong
+has-props
+
+Makefile.am
+file
+
+
+
+
+2009-12-11T13:28:21.000000Z
+c0726b6c8f125dad91106d583d39a7be
+2009-10-12T23:55:28.135385Z
+2
+ikseong
+has-props
+
